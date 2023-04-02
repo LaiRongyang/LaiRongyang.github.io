@@ -27,6 +27,6 @@ key: page-about
 ---
 
 ![about](https://github.com/LaiRongyang/LaiRongyang.github.io/tree/main/assets/images/pictures/about.jpg){:.shadow.rounded width="200"}
-### Hi, I'm Yulei.
+### Hi!
 
 这里是我大声学习的地方。我会写一些我觉得有趣的事情、我正在做的事情、我遇到的问题或者在我找到的解决方案。
